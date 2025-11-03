@@ -1,0 +1,15 @@
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.AssemblyInfoInputs.cache
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.AssemblyInfo.cs
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.csproj.CoreCompileInputs.cache
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/bin/Debug/net9.0/Task1
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/bin/Debug/net9.0/Task1.deps.json
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/bin/Debug/net9.0/Task1.runtimeconfig.json
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/bin/Debug/net9.0/Task1.dll
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/bin/Debug/net9.0/Task1.pdb
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.dll
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/refint/Task1.dll
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.pdb
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/ref/Task1.dll
+/Users/ashreykoirala/College/App Dev/Workshop 2/Workshop2/Task1/obj/Debug/net9.0/Task1.sourcelink.json
